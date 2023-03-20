@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-03-2023 , 16:56:19",
+  "lastUpdate": "20-03-2023 , 17:07:26",
   "data": [
     [
       {
@@ -45,9 +45,9 @@
     ],
     [
       {
-        "title": "Fuego",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fuego",
-        "pubdate": "Mon, 20 Mar 2023 13:00:00 +0200"
+        "title": "Alyssa Bounty",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alyssa%20Bounty",
+        "pubdate": "Mon, 20 Mar 2023 08:00:00 +0200"
       }
     ],
     [
@@ -59,9 +59,9 @@
     ],
     [
       {
-        "title": "Alyssa Bounty",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Alyssa%20Bounty",
-        "pubdate": "Mon, 20 Mar 2023 08:00:00 +0200"
+        "title": "Fuego",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Fuego",
+        "pubdate": "Mon, 20 Mar 2023 13:00:00 +0200"
       }
     ],
     [
@@ -108,16 +108,23 @@
     ],
     [
       {
-        "title": "PSG Rennes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#PSG%20Rennes",
-        "pubdate": "Mon, 20 Mar 2023 09:00:00 +0200"
+        "title": "Horoscop 20 martie 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2020%20martie%202023",
+        "pubdate": "Mon, 20 Mar 2023 07:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Horoscop 20 martie 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Horoscop%2020%20martie%202023",
-        "pubdate": "Mon, 20 Mar 2023 07:00:00 +0200"
+        "title": "Emil Boc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Emil%20Boc",
+        "pubdate": "Mon, 20 Mar 2023 17:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Podcast",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Podcast",
+        "pubdate": "Mon, 20 Mar 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Barcelona - Real Madrid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#Barcelona%20-%20Real%20Madrid",
         "pubdate": "Sun, 19 Mar 2023 11:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "CFR Cluj  Rapid Bucureşti",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=RO#CFR%20Cluj%20%20Rapid%20Bucure%C5%9Fti",
-        "pubdate": "Sun, 19 Mar 2023 06:00:00 +0200"
       }
     ]
   ]
