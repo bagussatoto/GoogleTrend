@@ -1,1 +1,1 @@
-Barcelona  Real Madrid,PSG  Rennes,Arsenal  Crystal Palace,Flamengo,Inter  Juventus,Casa Pia-Marítimo,Leverkusen  Bayern,Boavista-Famalicão,Pai,FCP,City,Napoli,Lazio  Roma,Primavera,Palmeiras  Ituano,Fernando Alonso,Benfica B  Oliveirense,Mia Rose,Mario Molina,Ajax  Feyenoord
+Cruzeiro,Benfica,Barcelona  Real Madrid,PSG  Rennes,Arsenal  Crystal Palace,Inter  Juventus,Flamengo,Jogos de Benfica,Casa Pia-Marítimo,Leverkusen  Bayern,Boavista-Famalicão,Pai,Vasco da Gama,  Flamengo,FCP,City,Napoli,Primavera,Lazio  Roma,Palmeiras  Ituano,Fernando Alonso

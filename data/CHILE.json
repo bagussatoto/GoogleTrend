@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "20-03-2023 , 00:28:58",
+  "lastUpdate": "20-03-2023 , 01:56:42",
   "data": [
     [
       {
@@ -45,15 +45,15 @@
     ],
     [
       {
-        "title": "Cuando es el dia del Hombre",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuando%20es%20el%20dia%20del%20Hombre",
-        "pubdate": "Sun, 19 Mar 2023 12:00:00 -0300"
+        "title": "Magallanes u Católica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20u%20Cat%C3%B3lica",
+        "pubdate": "Sun, 19 Mar 2023 20:00:00 -0300"
       }
     ],
     [
       {
-        "title": "Napoli",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli",
+        "title": "Cuando es el dia del Hombre",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cuando%20es%20el%20dia%20del%20Hombre",
         "pubdate": "Sun, 19 Mar 2023 12:00:00 -0300"
       }
     ],
@@ -80,51 +80,16 @@
     ],
     [
       {
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli",
+        "pubdate": "Sun, 19 Mar 2023 12:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Alcaraz",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Alcaraz",
         "pubdate": "Sun, 19 Mar 2023 00:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
-        "pubdate": "Sun, 19 Mar 2023 14:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Dia del Hombre 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Hombre%202023",
-        "pubdate": "Sun, 19 Mar 2023 13:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Magallanes u Católica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Magallanes%20u%20Cat%C3%B3lica",
-        "pubdate": "Sun, 19 Mar 2023 20:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "U. de Chile vs copiapo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#U.%20de%20Chile%20vs%20copiapo",
-        "pubdate": "Sun, 19 Mar 2023 17:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Cobreloa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
-        "pubdate": "Sun, 19 Mar 2023 11:00:00 -0300"
-      }
-    ],
-    [
-      {
-        "title": "Blackburn Rovers",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Blackburn%20Rovers",
-        "pubdate": "Sun, 19 Mar 2023 10:00:00 -0300"
       }
     ],
     [
@@ -136,9 +101,44 @@
     ],
     [
       {
+        "title": "Dia del Hombre 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dia%20del%20Hombre%202023",
+        "pubdate": "Sun, 19 Mar 2023 13:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Chelsea",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chelsea",
+        "pubdate": "Sun, 19 Mar 2023 14:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Blackburn Rovers",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Blackburn%20Rovers",
+        "pubdate": "Sun, 19 Mar 2023 10:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cobreloa",
+        "pubdate": "Sun, 19 Mar 2023 11:00:00 -0300"
+      }
+    ],
+    [
+      {
         "title": "Stade de Reims",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Stade%20de%20Reims",
         "pubdate": "Sun, 19 Mar 2023 19:00:00 -0300"
+      }
+    ],
+    [
+      {
+        "title": "La Serena  Cobreloa",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#La%20Serena%20%20Cobreloa",
+        "pubdate": "Sun, 19 Mar 2023 13:00:00 -0300"
       }
     ]
   ]

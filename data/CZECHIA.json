@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "20-03-2023 , 00:28:58",
+  "lastUpdate": "20-03-2023 , 01:56:43",
   "data": [
+    [
+      {
+        "title": "Plzeň – Bohemians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Plze%C5%88%20%E2%80%93%20Bohemians",
+        "pubdate": "Sun, 19 Mar 2023 10:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Barcelona – Real",
@@ -52,9 +59,23 @@
     ],
     [
       {
+        "title": "Boston Bruins",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Boston%20Bruins",
+        "pubdate": "Sun, 19 Mar 2023 18:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Mariupol",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mariupol",
         "pubdate": "Sun, 19 Mar 2023 14:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Markéta Pekarová Adamová",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mark%C3%A9ta%20Pekarov%C3%A1%20Adamov%C3%A1",
+        "pubdate": "Sun, 19 Mar 2023 00:00:00 +0100"
       }
     ],
     [
@@ -80,20 +101,6 @@
     ],
     [
       {
-        "title": "Josef",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Josef",
-        "pubdate": "Sun, 19 Mar 2023 11:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "HC Sparta Praha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#HC%20Sparta%20Praha",
-        "pubdate": "Sun, 19 Mar 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Mountfield HK",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Mountfield%20HK",
         "pubdate": "Sun, 19 Mar 2023 19:00:00 +0100"
@@ -108,16 +115,16 @@
     ],
     [
       {
-        "title": "Man United – Fulham",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20United%20%E2%80%93%20Fulham",
-        "pubdate": "Sat, 18 Mar 2023 22:00:00 +0100"
+        "title": "Sam Neill",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sam%20Neill",
+        "pubdate": "Sat, 18 Mar 2023 15:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Sam Neill",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sam%20Neill",
-        "pubdate": "Sat, 18 Mar 2023 15:00:00 +0100"
+        "title": "Man United – Fulham",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Man%20United%20%E2%80%93%20Fulham",
+        "pubdate": "Sat, 18 Mar 2023 22:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Banska stiavnica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Banska%20stiavnica",
         "pubdate": "Sat, 18 Mar 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sparta",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CZ#Sparta",
-        "pubdate": "Sat, 18 Mar 2023 01:00:00 +0100"
       }
     ]
   ]
