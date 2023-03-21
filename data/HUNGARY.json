@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "21-03-2023 , 01:04:31",
+  "lastUpdate": "21-03-2023 , 02:06:44",
   "data": [
     [
       {
@@ -10,23 +10,16 @@
     ],
     [
       {
-        "title": "Benzin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Benzin",
-        "pubdate": "Mon, 20 Mar 2023 10:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Víz világnapja",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#V%C3%ADz%20vil%C3%A1gnapja",
-        "pubdate": "Mon, 20 Mar 2023 07:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Demi Moore",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Demi%20Moore",
+        "title": "Bruce Willis",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Bruce%20Willis",
         "pubdate": "Mon, 20 Mar 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Tavaszi napéjegyenlőség",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Tavaszi%20nap%C3%A9jegyenl%C5%91s%C3%A9g",
+        "pubdate": "Mon, 20 Mar 2023 08:00:00 +0100"
       }
     ],
     [
@@ -52,9 +45,23 @@
     ],
     [
       {
-        "title": "Beol.hu",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Beol.hu",
-        "pubdate": "Mon, 20 Mar 2023 06:00:00 +0100"
+        "title": "Napoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Napoli",
+        "pubdate": "Mon, 20 Mar 2023 03:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Családi pótlék 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Csal%C3%A1di%20p%C3%B3tl%C3%A9k%202023",
+        "pubdate": "Mon, 20 Mar 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Amanda Bynes",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Amanda%20Bynes",
+        "pubdate": "Mon, 20 Mar 2023 23:00:00 +0100"
       }
     ],
     [
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "Amanda Bynes",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Amanda%20Bynes",
+        "title": "Molnár Gusztáv",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Guszt%C3%A1v",
         "pubdate": "Mon, 20 Mar 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Molnár Gusztáv",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Moln%C3%A1r%20Guszt%C3%A1v",
-        "pubdate": "Mon, 20 Mar 2023 23:00:00 +0100"
+        "title": "Böde dániel",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#B%C3%B6de%20d%C3%A1niel",
+        "pubdate": "Mon, 20 Mar 2023 11:00:00 +0100"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Arsenal–crystal Palace",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Arsenal%E2%80%93crystal%20Palace",
         "pubdate": "Sun, 19 Mar 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Kiss Ernő Zsolt",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=HU#Kiss%20Ern%C5%91%20Zsolt",
-        "pubdate": "Sun, 19 Mar 2023 22:00:00 +0100"
       }
     ]
   ]
