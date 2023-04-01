@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "01-04-2023 , 00:34:52",
+  "lastUpdate": "01-04-2023 , 01:50:12",
   "data": [
+    [
+      {
+        "title": "Voss",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Voss",
+        "pubdate": "Sat, 01 Apr 2023 02:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Donald Trump",
@@ -10,16 +17,16 @@
     ],
     [
       {
-        "title": "The Voice",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Voice",
-        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
+        "title": "Alexandra Joner",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Joner",
+        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Alexandra Joner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Alexandra%20Joner",
-        "pubdate": "Fri, 31 Mar 2023 17:00:00 +0200"
+        "title": "The Voice",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#The%20Voice",
+        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
       }
     ],
     [
@@ -41,13 +48,6 @@
         "title": "Formel 1",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Formel%201",
         "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Fox News",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NO#Fox%20News",
-        "pubdate": "Fri, 31 Mar 2023 11:00:00 +0200"
       }
     ],
     [

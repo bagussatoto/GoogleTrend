@@ -1,11 +1,18 @@
 {
-  "lastUpdate": "01-04-2023 , 00:34:52",
+  "lastUpdate": "01-04-2023 , 01:50:11",
   "data": [
     [
       {
         "title": "Claude",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Claude",
         "pubdate": "Sat, 01 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "1 april",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#1%20april",
+        "pubdate": "Sat, 01 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -94,9 +101,9 @@
     ],
     [
       {
-        "title": "Wesley Sneijder",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Wesley%20Sneijder",
-        "pubdate": "Fri, 31 Mar 2023 10:00:00 +0200"
+        "title": "Yolanthe Cabau",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Yolanthe%20Cabau",
+        "pubdate": "Fri, 31 Mar 2023 13:00:00 +0200"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "Vechtpartij Voorthuizen",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Vechtpartij%20Voorthuizen",
-        "pubdate": "Fri, 31 Mar 2023 20:00:00 +0200"
+        "title": "Voorthuizen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Voorthuizen",
+        "pubdate": "Fri, 31 Mar 2023 18:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Metro Hoek van Holland",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Metro%20Hoek%20van%20Holland",
         "pubdate": "Fri, 31 Mar 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Guus Meeuwis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Guus%20Meeuwis",
-        "pubdate": "Thu, 30 Mar 2023 20:00:00 +0200"
       }
     ]
   ]
