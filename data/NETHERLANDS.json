@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 20:59:37",
+  "lastUpdate": "03-04-2023 , 21:11:16",
   "data": [
     [
       {
@@ -20,13 +20,6 @@
         "title": "Postcode Loterij",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Postcode%20Loterij",
         "pubdate": "Mon, 03 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "BKR",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BKR",
-        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -52,9 +45,9 @@
     ],
     [
       {
-        "title": "Almere City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Almere%20City",
-        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
+        "title": "BKR",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#BKR",
+        "pubdate": "Mon, 03 Apr 2023 21:00:00 +0200"
       }
     ],
     [
@@ -69,13 +62,6 @@
         "title": "Feyenoord",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Feyenoord",
         "pubdate": "Sun, 02 Apr 2023 13:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -101,9 +87,23 @@
     ],
     [
       {
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Ryuichi Sakamoto",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryuichi%20Sakamoto",
         "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Barry Atsma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Barry%20Atsma",
+        "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
       }
     ],
     [
