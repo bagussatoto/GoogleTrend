@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "04-04-2023 , 00:36:12",
+  "lastUpdate": "04-04-2023 , 01:52:03",
   "data": [
     [
       {
@@ -66,6 +66,13 @@
     ],
     [
       {
+        "title": "John Steenhuisen",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#John%20Steenhuisen",
+        "pubdate": "Mon, 03 Apr 2023 01:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Holy Week",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Holy%20Week",
         "pubdate": "Mon, 03 Apr 2023 14:00:00 +0200"
@@ -87,16 +94,16 @@
     ],
     [
       {
-        "title": "Nkosazana Daughter",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nkosazana%20Daughter",
-        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0200"
+        "title": "Donald Trump",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Donald Trump",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Donald%20Trump",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0200"
+        "title": "Nkosazana Daughter",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Nkosazana%20Daughter",
+        "pubdate": "Mon, 03 Apr 2023 09:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Real Madrid vs Valladolid",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Real%20Madrid%20vs%20Valladolid",
         "pubdate": "Sun, 02 Apr 2023 00:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Big Brother Titans",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=ZA#Big%20Brother%20Titans",
-        "pubdate": "Sun, 02 Apr 2023 23:00:00 +0200"
       }
     ]
   ]
