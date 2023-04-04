@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "03-04-2023 , 23:55:55",
+  "lastUpdate": "04-04-2023 , 00:36:08",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "De Graafschap",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#De%20Graafschap",
         "pubdate": "Tue, 04 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Roda JC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Roda%20JC",
+        "pubdate": "Tue, 04 Apr 2023 01:00:00 +0200"
       }
     ],
     [
@@ -66,16 +73,16 @@
     ],
     [
       {
-        "title": "Meghan Markle",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meghan%20Markle",
-        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0200"
+        "title": "Dogecoin",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dogecoin",
+        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Dogecoin",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Dogecoin",
-        "pubdate": "Mon, 03 Apr 2023 22:00:00 +0200"
+        "title": "Meghan Markle",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Meghan%20Markle",
+        "pubdate": "Mon, 03 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -97,13 +104,6 @@
         "title": "Ajax",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ajax",
         "pubdate": "Sun, 02 Apr 2023 08:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "FC Utrecht",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
-        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
       }
     ],
     [
@@ -136,9 +136,9 @@
     ],
     [
       {
-        "title": "Ryuichi Sakamoto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#Ryuichi%20Sakamoto",
-        "pubdate": "Sun, 02 Apr 2023 18:00:00 +0200"
+        "title": "FC Utrecht",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NL#FC%20Utrecht",
+        "pubdate": "Sun, 02 Apr 2023 12:00:00 +0200"
       }
     ]
   ]

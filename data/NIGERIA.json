@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "03-04-2023 , 23:55:56",
+  "lastUpdate": "04-04-2023 , 00:36:09",
   "data": [
+    [
+      {
+        "title": "Empoli",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Empoli",
+        "pubdate": "Tue, 04 Apr 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Everton vs Tottenham",
@@ -73,8 +80,8 @@
     ],
     [
       {
-        "title": "Omos",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omos",
+        "title": "Davido album, Timeless",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Davido%20album,%20Timeless",
         "pubdate": "Mon, 03 Apr 2023 13:00:00 +0100"
       }
     ],
@@ -87,6 +94,13 @@
     ],
     [
       {
+        "title": "Omos",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Omos",
+        "pubdate": "Mon, 03 Apr 2023 13:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "H pylori",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#H%20pylori",
         "pubdate": "Mon, 03 Apr 2023 13:00:00 +0100"
@@ -94,16 +108,16 @@
     ],
     [
       {
-        "title": "Bianca Belair",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bianca%20Belair",
-        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0100"
+        "title": "Valencia",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia",
+        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Valencia",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Valencia",
-        "pubdate": "Mon, 03 Apr 2023 23:00:00 +0100"
+        "title": "Bianca Belair",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Bianca%20Belair",
+        "pubdate": "Mon, 03 Apr 2023 20:00:00 +0100"
       }
     ],
     [
@@ -125,20 +139,6 @@
         "title": "Newcastle vs Man United",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Newcastle%20vs%20Man%20United",
         "pubdate": "Sun, 02 Apr 2023 09:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Chelsea news",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Chelsea%20news",
-        "pubdate": "Sun, 02 Apr 2023 14:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Real Madrid vs Valladolid",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NG#Real%20Madrid%20vs%20Valladolid",
-        "pubdate": "Sun, 02 Apr 2023 11:00:00 +0100"
       }
     ]
   ]
