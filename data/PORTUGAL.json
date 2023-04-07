@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "07-04-2023 , 23:50:43",
+  "lastUpdate": "07-04-2023 , 23:56:40",
   "data": [
+    [
+      {
+        "title": "SC Braga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#SC%20Braga",
+        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Pascoa significado",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pascoa%20significado",
+        "pubdate": "Sat, 08 Apr 2023 00:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Benfica",
-        "pubdate": "Fri, 07 Apr 2023 14:00:00 +0100"
+        "pubdate": "Fri, 07 Apr 2023 00:00:00 +0100"
       }
     ],
     [
@@ -20,13 +34,6 @@
         "title": "Sport Lisboa e Benfica",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport%20Lisboa%20e%20Benfica",
         "pubdate": "Fri, 07 Apr 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Liga portuguesa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liga%20portuguesa",
-        "pubdate": "Fri, 07 Apr 2023 23:00:00 +0100"
       }
     ],
     [
@@ -73,6 +80,13 @@
     ],
     [
       {
+        "title": "Liverpool  Corinthians",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Liverpool%20%20Corinthians",
+        "pubdate": "Fri, 07 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Lousada",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Lousada",
         "pubdate": "Fri, 07 Apr 2023 15:00:00 +0100"
@@ -83,6 +97,13 @@
         "title": "Kylie Jenner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Kylie%20Jenner",
         "pubdate": "Fri, 07 Apr 2023 10:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Milan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0100"
       }
     ],
     [
@@ -101,27 +122,6 @@
     ],
     [
       {
-        "title": "2 Liga",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#2%20Liga",
-        "pubdate": "Fri, 07 Apr 2023 16:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Milan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Milan",
-        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "BTV",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#BTV",
-        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Paul Cattermole",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Paul%20Cattermole",
         "pubdate": "Fri, 07 Apr 2023 18:00:00 +0100"
@@ -129,9 +129,9 @@
     ],
     [
       {
-        "title": "Artur Soares Dias",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Artur%20Soares%20Dias",
-        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0100"
+        "title": "2 Liga",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#2%20Liga",
+        "pubdate": "Fri, 07 Apr 2023 16:00:00 +0100"
       }
     ],
     [
