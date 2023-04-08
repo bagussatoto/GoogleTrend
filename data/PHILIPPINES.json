@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "08-04-2023 , 00:39:11",
+  "lastUpdate": "08-04-2023 , 01:44:46",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "Holy Saturday",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Holy%20Saturday",
         "pubdate": "Sat, 08 Apr 2023 07:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Paul Cattermole",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Paul%20Cattermole",
+        "pubdate": "Sat, 08 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -38,9 +45,9 @@
     ],
     [
       {
-        "title": "Passion of Christ",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Passion%20of%20Christ",
-        "pubdate": "Fri, 07 Apr 2023 09:00:00 +0800"
+        "title": "Black Saturday",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Black%20Saturday",
+        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0800"
       }
     ],
     [
@@ -59,9 +66,9 @@
     ],
     [
       {
-        "title": "Black Saturday",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Black%20Saturday",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0800"
+        "title": "Passion of Christ",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Passion%20of%20Christ",
+        "pubdate": "Fri, 07 Apr 2023 09:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Seven Last Words",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Seven%20Last%20Words",
         "pubdate": "Fri, 07 Apr 2023 07:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Beef Netflix",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PH#Beef%20Netflix",
-        "pubdate": "Fri, 07 Apr 2023 03:00:00 +0800"
       }
     ]
   ]
