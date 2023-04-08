@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "07-04-2023 , 23:56:33",
+  "lastUpdate": "08-04-2023 , 00:39:06",
   "data": [
     [
       {
@@ -24,16 +24,16 @@
     ],
     [
       {
-        "title": "Coolio",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coolio",
-        "pubdate": "Fri, 07 Apr 2023 10:00:00 +0200"
+        "title": "Serie A",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serie%20A",
+        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "Serie A",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Serie%20A",
-        "pubdate": "Fri, 07 Apr 2023 22:00:00 +0200"
+        "title": "Coolio",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Coolio",
+        "pubdate": "Fri, 07 Apr 2023 10:00:00 +0200"
       }
     ],
     [
@@ -68,6 +68,13 @@
       {
         "title": "Prince",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Prince",
+        "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Yaris",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Yaris",
         "pubdate": "Fri, 07 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -132,13 +139,6 @@
         "title": "Masters 2023",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Masters%202023",
         "pubdate": "Thu, 06 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Aldi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Aldi",
-        "pubdate": "Thu, 06 Apr 2023 15:00:00 +0200"
       }
     ]
   ]
