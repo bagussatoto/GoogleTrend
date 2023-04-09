@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 00:27:39",
+  "lastUpdate": "09-04-2023 , 01:46:36",
   "data": [
     [
       {
@@ -17,8 +17,8 @@
     ],
     [
       {
-        "title": "PSG",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#PSG",
+        "title": "Nice vs PSG",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Nice%20vs%20PSG",
         "pubdate": "Sun, 09 Apr 2023 01:00:00 +0800"
       }
     ],
@@ -59,6 +59,13 @@
     ],
     [
       {
+        "title": "Leicester City vs Bournemouth",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Leicester%20City%20vs%20Bournemouth",
+        "pubdate": "Sun, 09 Apr 2023 01:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "Man United vs Everton",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Man%20United%20vs%20Everton",
         "pubdate": "Sat, 08 Apr 2023 19:00:00 +0800"
@@ -73,16 +80,16 @@
     ],
     [
       {
-        "title": "S Club 7 Paul",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#S%20Club%207%20Paul",
-        "pubdate": "Sat, 08 Apr 2023 01:00:00 +0800"
+        "title": "MI vs CSK",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MI%20vs%20CSK",
+        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0800"
       }
     ],
     [
       {
-        "title": "MI vs CSK",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#MI%20vs%20CSK",
-        "pubdate": "Sat, 08 Apr 2023 22:00:00 +0800"
+        "title": "S Club 7 Paul",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#S%20Club%207%20Paul",
+        "pubdate": "Sat, 08 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Hong Kong",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Hong%20Kong",
         "pubdate": "Sat, 08 Apr 2023 23:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=SG#Dallas%20Mavericks",
-        "pubdate": "Sat, 08 Apr 2023 19:00:00 +0800"
       }
     ]
   ]

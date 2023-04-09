@@ -1,18 +1,11 @@
 {
-  "lastUpdate": "09-04-2023 , 00:27:32",
+  "lastUpdate": "09-04-2023 , 01:46:30",
   "data": [
     [
       {
         "title": "Dortmund gegen Union Berlin",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dortmund%20gegen%20Union%20Berlin",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Bayern Freiburg",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Freiburg",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -31,6 +24,13 @@
     ],
     [
       {
+        "title": "Bayern Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20Freiburg",
+        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Dynamo Dresden",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Dynamo%20Dresden",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
@@ -41,6 +41,13 @@
         "title": "Julia Beautx",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Julia%20Beautx",
         "pubdate": "Sat, 08 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Bayern gegen Freiburg",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Bayern%20gegen%20Freiburg",
+        "pubdate": "Sat, 08 Apr 2023 16:00:00 +0200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Karfreitag",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Karfreitag",
         "pubdate": "Thu, 06 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Israel",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DE#Israel",
-        "pubdate": "Thu, 06 Apr 2023 00:00:00 +0200"
       }
     ]
   ]
