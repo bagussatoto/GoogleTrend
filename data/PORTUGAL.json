@@ -1,6 +1,20 @@
 {
-  "lastUpdate": "09-04-2023 , 01:46:35",
+  "lastUpdate": "09-04-2023 , 02:22:44",
   "data": [
+    [
+      {
+        "title": "Valverde",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Valverde",
+        "pubdate": "Sun, 09 Apr 2023 02:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Queima do Judas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Queima%20do%20Judas",
+        "pubdate": "Sun, 09 Apr 2023 01:00:00 +0100"
+      }
+    ],
     [
       {
         "title": "Picasso",
@@ -10,9 +24,9 @@
     ],
     [
       {
-        "title": "Queima do Judas",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Queima%20do%20Judas",
-        "pubdate": "Sun, 09 Apr 2023 01:00:00 +0100"
+        "title": "Jogo Benfica Porto",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Jogo%20Benfica%20Porto",
+        "pubdate": "Sat, 08 Apr 2023 12:00:00 +0100"
       }
     ],
     [
@@ -52,13 +66,6 @@
     ],
     [
       {
-        "title": "Southampton  City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Southampton%20%20City",
-        "pubdate": "Sat, 08 Apr 2023 18:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "Georgina Rodríguez",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Georgina%20Rodr%C3%ADguez",
         "pubdate": "Sat, 08 Apr 2023 15:00:00 +0100"
@@ -69,13 +76,6 @@
         "title": "Taiwan",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Taiwan",
         "pubdate": "Sat, 08 Apr 2023 21:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Pacos Ferreira",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pacos%20Ferreira",
-        "pubdate": "Sat, 08 Apr 2023 19:00:00 +0100"
       }
     ],
     [
@@ -108,6 +108,13 @@
     ],
     [
       {
+        "title": "Academico de Viseu",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Academico%20de%20Viseu",
+        "pubdate": "Sat, 08 Apr 2023 12:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Maritimo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Maritimo",
         "pubdate": "Sat, 08 Apr 2023 16:00:00 +0100"
@@ -115,30 +122,23 @@
     ],
     [
       {
-        "title": "Praia da Ursa",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Praia%20da%20Ursa",
-        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0100"
+        "title": "Taça de Portugal",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Ta%C3%A7a%20de%20Portugal",
+        "pubdate": "Sat, 08 Apr 2023 11:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Monte Real",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Monte%20Real",
-        "pubdate": "Sat, 08 Apr 2023 21:00:00 +0100"
+        "title": "Arouca FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Arouca%20FC",
+        "pubdate": "Sat, 08 Apr 2023 17:00:00 +0100"
       }
     ],
     [
       {
-        "title": "Dallas Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Dallas%20Mavericks",
-        "pubdate": "Sat, 08 Apr 2023 19:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Sport",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Sport",
-        "pubdate": "Sat, 08 Apr 2023 15:00:00 +0100"
+        "title": "Pacos Ferreira",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PT#Pacos%20Ferreira",
+        "pubdate": "Sat, 08 Apr 2023 20:00:00 +0100"
       }
     ]
   ]

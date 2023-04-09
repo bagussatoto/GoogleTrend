@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "09-04-2023 , 01:46:28",
+  "lastUpdate": "09-04-2023 , 02:22:38",
   "data": [
     [
       {
@@ -24,9 +24,16 @@
     ],
     [
       {
-        "title": "Cristian Garín",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cristian%20Gar%C3%ADn",
+        "title": "Cristian garín",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Cristian%20gar%C3%ADn",
         "pubdate": "Sat, 08 Apr 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Chile",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
+        "pubdate": "Sat, 08 Apr 2023 10:00:00 -0400"
       }
     ],
     [
@@ -45,13 +52,6 @@
     ],
     [
       {
-        "title": "Chile",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Chile",
-        "pubdate": "Sat, 08 Apr 2023 10:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Tottenham",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham",
         "pubdate": "Sat, 08 Apr 2023 12:00:00 -0400"
@@ -59,9 +59,23 @@
     ],
     [
       {
+        "title": "Taylor Swift",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Taylor%20Swift",
+        "pubdate": "Sat, 08 Apr 2023 21:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Deportes Valdivia",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Deportes%20Valdivia",
         "pubdate": "Sat, 08 Apr 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Lazio  Juventus",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio%20%20Juventus",
+        "pubdate": "Sat, 08 Apr 2023 17:00:00 -0400"
       }
     ],
     [
@@ -76,6 +90,13 @@
         "title": "Rangers",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rangers",
         "pubdate": "Sat, 08 Apr 2023 18:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Coquimbo Unido",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Coquimbo%20Unido",
+        "pubdate": "Sat, 08 Apr 2023 21:00:00 -0400"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "Lazio  Juventus",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Lazio%20%20Juventus",
-        "pubdate": "Sat, 08 Apr 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
         "title": "Joaquin Niemann",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Joaquin%20Niemann",
         "pubdate": "Sat, 08 Apr 2023 14:00:00 -0400"
@@ -125,20 +139,6 @@
         "title": "Arturo Vidal",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Arturo%20Vidal",
         "pubdate": "Sat, 08 Apr 2023 17:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Dallas Mavericks",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Dallas%20Mavericks",
-        "pubdate": "Sat, 08 Apr 2023 01:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Jeremy Renner",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Jeremy%20Renner",
-        "pubdate": "Sat, 08 Apr 2023 20:00:00 -0400"
       }
     ]
   ]
