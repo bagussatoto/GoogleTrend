@@ -1,11 +1,32 @@
 {
-  "lastUpdate": "11-04-2023 , 02:58:49",
+  "lastUpdate": "11-04-2023 , 03:12:24",
   "data": [
+    [
+      {
+        "title": "나이키",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%82%98%EC%9D%B4%ED%82%A4",
+        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0900"
+      }
+    ],
     [
       {
         "title": "바르셀로나",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EB%B0%94%EB%A5%B4%EC%85%80%EB%A1%9C%EB%82%98",
         "pubdate": "Tue, 11 Apr 2023 09:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "에어프레미아",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%EC%96%B4%ED%94%84%EB%A0%88%EB%AF%B8%EC%95%84",
+        "pubdate": "Tue, 11 Apr 2023 03:00:00 +0900"
+      }
+    ],
+    [
+      {
+        "title": "유은성",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9C%A0%EC%9D%80%EC%84%B1",
+        "pubdate": "Tue, 11 Apr 2023 11:00:00 +0900"
       }
     ],
     [
@@ -24,13 +45,6 @@
     ],
     [
       {
-        "title": "최강야구",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%B5%9C%EA%B0%95%EC%95%BC%EA%B5%AC",
-        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "오영환",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%98%A4%EC%98%81%ED%99%98",
         "pubdate": "Mon, 10 Apr 2023 17:00:00 +0900"
@@ -45,16 +59,16 @@
     ],
     [
       {
-        "title": "IVE",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#IVE",
-        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0900"
+        "title": "학교폭력",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%95%99%EA%B5%90%ED%8F%AD%EB%A0%A5",
+        "pubdate": "Mon, 10 Apr 2023 23:00:00 +0900"
       }
     ],
     [
       {
-        "title": "황기환",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%ED%99%A9%EA%B8%B0%ED%99%98",
-        "pubdate": "Mon, 10 Apr 2023 22:00:00 +0900"
+        "title": "IVE",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#IVE",
+        "pubdate": "Mon, 10 Apr 2023 16:00:00 +0900"
       }
     ],
     [
@@ -108,13 +122,6 @@
     ],
     [
       {
-        "title": "장원영",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9E%A5%EC%9B%90%EC%98%81",
-        "pubdate": "Fri, 07 Apr 2023 17:00:00 +0900"
-      }
-    ],
-    [
-      {
         "title": "안성현",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%95%88%EC%84%B1%ED%98%84",
         "pubdate": "Fri, 07 Apr 2023 15:00:00 +0900"
@@ -132,13 +139,6 @@
         "title": "에픽게임즈",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%97%90%ED%94%BD%EA%B2%8C%EC%9E%84%EC%A6%88",
         "pubdate": "Fri, 07 Apr 2023 02:00:00 +0900"
-      }
-    ],
-    [
-      {
-        "title": "이승기",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=KR#%EC%9D%B4%EC%8A%B9%EA%B8%B0",
-        "pubdate": "Fri, 07 Apr 2023 20:00:00 +0900"
       }
     ]
   ]
