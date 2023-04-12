@@ -1,17 +1,10 @@
 {
-  "lastUpdate": "12-04-2023 , 07:51:32",
+  "lastUpdate": "12-04-2023 , 07:57:31",
   "data": [
     [
       {
         "title": "Elizabeth Holmes",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Elizabeth%20Holmes",
-        "pubdate": "Wed, 12 Apr 2023 08:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Wellington Zoo",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Zoo",
         "pubdate": "Wed, 12 Apr 2023 08:00:00 +1200"
       }
     ],
@@ -24,6 +17,13 @@
     ],
     [
       {
+        "title": "Wellington Zoo",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Wellington%20Zoo",
+        "pubdate": "Wed, 12 Apr 2023 08:00:00 +1200"
+      }
+    ],
+    [
+      {
         "title": "Lakers vs Timberwolves",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Lakers%20vs%20Timberwolves",
         "pubdate": "Wed, 12 Apr 2023 17:00:00 +1200"
@@ -31,8 +31,8 @@
     ],
     [
       {
-        "title": "Jon Bon Jovi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jon%20Bon%20Jovi",
+        "title": "Millie Bobby Brown age",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Millie%20Bobby%20Brown%20age",
         "pubdate": "Tue, 11 Apr 2023 23:00:00 +1200"
       }
     ],
@@ -76,6 +76,13 @@
         "title": "Monte Carlo Masters",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Monte%20Carlo%20Masters",
         "pubdate": "Tue, 11 Apr 2023 13:00:00 +1200"
+      }
+    ],
+    [
+      {
+        "title": "Covid isolation rules",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Covid%20isolation%20rules",
+        "pubdate": "Tue, 11 Apr 2023 21:00:00 +1200"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "Jon Rahm",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Jon%20Rahm",
         "pubdate": "Mon, 10 Apr 2023 09:00:00 +1200"
-      }
-    ],
-    [
-      {
-        "title": "Masters prize money 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=NZ#Masters%20prize%20money%202023",
-        "pubdate": "Mon, 10 Apr 2023 12:00:00 +1200"
       }
     ]
   ]

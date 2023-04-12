@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "12-04-2023 , 07:51:31",
+  "lastUpdate": "12-04-2023 , 07:57:29",
   "data": [
     [
       {
@@ -17,6 +17,13 @@
     ],
     [
       {
+        "title": "Fergal Horgan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fergal%20Horgan",
+        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0100"
+      }
+    ],
+    [
+      {
         "title": "Jeremy Renner",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Jeremy%20Renner",
         "pubdate": "Wed, 12 Apr 2023 06:00:00 +0100"
@@ -24,8 +31,8 @@
     ],
     [
       {
-        "title": "Fergal Horgan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Fergal%20Horgan",
+        "title": "Celtic fc",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic%20fc",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0100"
       }
     ],
@@ -40,13 +47,6 @@
       {
         "title": "Nicola Bulley",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Nicola%20Bulley",
-        "pubdate": "Wed, 12 Apr 2023 00:00:00 +0100"
-      }
-    ],
-    [
-      {
-        "title": "Celtic fc",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Celtic%20fc",
         "pubdate": "Wed, 12 Apr 2023 00:00:00 +0100"
       }
     ],
@@ -101,13 +101,6 @@
     ],
     [
       {
-        "title": "Wordle hint",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wordle%20hint",
-        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0100"
-      }
-    ],
-    [
-      {
         "title": "SZA",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#SZA",
         "pubdate": "Tue, 11 Apr 2023 18:00:00 +0100"
@@ -139,6 +132,13 @@
         "title": "Ryanair plane Dublin Airport",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Ryanair%20plane%20Dublin%20Airport",
         "pubdate": "Tue, 11 Apr 2023 08:00:00 +0100"
+      }
+    ],
+    [
+      {
+        "title": "Wordle hint",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IE#Wordle%20hint",
+        "pubdate": "Tue, 11 Apr 2023 23:00:00 +0100"
       }
     ]
   ]
