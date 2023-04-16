@@ -1,11 +1,11 @@
 {
-  "lastUpdate": "16-04-2023 , 00:45:56",
+  "lastUpdate": "16-04-2023 , 02:00:34",
   "data": [
     [
       {
-        "title": "By",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#By",
-        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
+        "title": "Creator Clash 2",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Creator%20Clash%202",
+        "pubdate": "Sun, 16 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -87,6 +87,13 @@
     ],
     [
       {
+        "title": "Jake Bongiovi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Jake%20Bongiovi",
+        "pubdate": "Sat, 15 Apr 2023 23:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Elusive",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Elusive",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
@@ -132,13 +139,6 @@
         "title": "Joy",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Joy",
         "pubdate": "Fri, 14 Apr 2023 20:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Tesla Model 3",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Tesla%20Model%203",
-        "pubdate": "Fri, 14 Apr 2023 10:00:00 +0200"
       }
     ]
   ]

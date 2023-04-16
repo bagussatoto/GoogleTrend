@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 00:46:04",
+  "lastUpdate": "16-04-2023 , 02:00:43",
   "data": [
     [
       {
@@ -24,9 +24,9 @@
     ],
     [
       {
-        "title": "Peter Maffay",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Peter%20Maffay",
-        "pubdate": "Sat, 15 Apr 2023 10:00:00 +0200"
+        "title": "PSG Lens",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#PSG%20Lens",
+        "pubdate": "Sun, 16 Apr 2023 00:00:00 +0200"
       }
     ],
     [
@@ -34,6 +34,13 @@
         "title": "DSDS",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#DSDS",
         "pubdate": "Sat, 15 Apr 2023 18:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Benfica",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -80,13 +87,6 @@
     ],
     [
       {
-        "title": "Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Benfica",
-        "pubdate": "Sat, 15 Apr 2023 22:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "VfB Stuttgart gegen Dortmund",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#VfB%20Stuttgart%20gegen%20Dortmund",
         "pubdate": "Sat, 15 Apr 2023 16:00:00 +0200"
@@ -94,23 +94,16 @@
     ],
     [
       {
-        "title": "Chaves - Benfica",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Chaves%20-%20Benfica",
-        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Porto - Santa Clara",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto%20-%20Santa%20Clara",
+        "title": "Porto  Santa Clara",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Porto%20%20Santa%20Clara",
         "pubdate": "Sat, 15 Apr 2023 22:00:00 +0200"
       }
     ],
     [
       {
-        "title": "YB",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#YB",
-        "pubdate": "Sat, 15 Apr 2023 09:00:00 +0200"
+        "title": "Servette FC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Servette%20FC",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
       }
     ],
     [
@@ -122,9 +115,9 @@
     ],
     [
       {
-        "title": "Paris-sg – Lens",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Paris-sg%20%E2%80%93%20Lens",
-        "pubdate": "Sat, 15 Apr 2023 22:00:00 +0200"
+        "title": "Sudan",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sudan",
+        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
       }
     ],
     [
@@ -136,9 +129,16 @@
     ],
     [
       {
-        "title": "Sudan",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Sudan",
-        "pubdate": "Sat, 15 Apr 2023 17:00:00 +0200"
+        "title": "ManCity gegen Leicester",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#ManCity%20gegen%20Leicester",
+        "pubdate": "Sat, 15 Apr 2023 19:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Pur",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CH#Pur",
+        "pubdate": "Sat, 15 Apr 2023 22:00:00 +0200"
       }
     ]
   ]

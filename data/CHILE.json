@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "16-04-2023 , 00:45:55",
+  "lastUpdate": "16-04-2023 , 02:00:33",
   "data": [
     [
       {
@@ -24,6 +24,20 @@
     ],
     [
       {
+        "title": "Colo Colo hoy",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20hoy",
+        "pubdate": "Sat, 15 Apr 2023 14:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Betis  rcd Espanyol",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis%20%20rcd%20Espanyol",
+        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Napoli",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Napoli",
         "pubdate": "Sat, 15 Apr 2023 15:00:00 -0400"
@@ -38,16 +52,16 @@
     ],
     [
       {
-        "title": "Manchester City vs Leicester City",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20vs%20Leicester%20City",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0400"
+        "title": "Boca",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca",
+        "pubdate": "Sat, 15 Apr 2023 20:00:00 -0400"
       }
     ],
     [
       {
-        "title": "Bayern  Hoffenheim",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern%20%20Hoffenheim",
-        "pubdate": "Sat, 15 Apr 2023 11:00:00 -0400"
+        "title": "Manchester City vs Leicester City",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Manchester%20City%20vs%20Leicester%20City",
+        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0400"
       }
     ],
     [
@@ -73,6 +87,13 @@
     ],
     [
       {
+        "title": "Celine Dion",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Celine%20Dion",
+        "pubdate": "Sat, 15 Apr 2023 01:00:00 -0400"
+      }
+    ],
+    [
+      {
         "title": "Inter",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Inter",
         "pubdate": "Sat, 15 Apr 2023 17:00:00 -0400"
@@ -80,9 +101,9 @@
     ],
     [
       {
-        "title": "Celine Dion",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Celine%20Dion",
-        "pubdate": "Sat, 15 Apr 2023 01:00:00 -0400"
+        "title": "Huachipato",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Huachipato",
+        "pubdate": "Sat, 15 Apr 2023 18:00:00 -0400"
       }
     ],
     [
@@ -94,9 +115,16 @@
     ],
     [
       {
-        "title": "Betis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Betis",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0400"
+        "title": "Bayern  Hoffenheim",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Bayern%20%20Hoffenheim",
+        "pubdate": "Sat, 15 Apr 2023 11:00:00 -0400"
+      }
+    ],
+    [
+      {
+        "title": "Boca Juniors",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Boca%20Juniors",
+        "pubdate": "Sat, 15 Apr 2023 20:00:00 -0400"
       }
     ],
     [
@@ -108,36 +136,8 @@
     ],
     [
       {
-        "title": "Tottenham  Bournemouth",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Tottenham%20%20Bournemouth",
-        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Rublev",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Rublev",
-        "pubdate": "Sat, 15 Apr 2023 13:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "San Luis",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#San%20Luis",
-        "pubdate": "Sat, 15 Apr 2023 16:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Donde voto",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Donde%20voto",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 -0400"
-      }
-    ],
-    [
-      {
-        "title": "Colo Colo Femenino",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#Colo%20Colo%20Femenino",
+        "title": "UC",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=CL#UC",
         "pubdate": "Sat, 15 Apr 2023 16:00:00 -0400"
       }
     ]
