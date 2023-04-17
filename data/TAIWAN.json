@@ -1,11 +1,25 @@
 {
-  "lastUpdate": "17-04-2023 , 00:54:50",
+  "lastUpdate": "17-04-2023 , 01:57:17",
   "data": [
     [
       {
-        "title": "口罩",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%A3%E7%BD%A9",
+        "title": "口罩解禁",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%A3%E7%BD%A9%E8%A7%A3%E7%A6%81",
         "pubdate": "Mon, 17 Apr 2023 06:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "郵局領6000",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%83%B5%E5%B1%80%E9%A0%986000",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "八村壘",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%AB%E6%9D%91%E5%A3%98",
+        "pubdate": "Mon, 17 Apr 2023 08:00:00 +0800"
       }
     ],
     [
@@ -24,6 +38,13 @@
     ],
     [
       {
+        "title": "限溫令",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%99%90%E6%BA%AB%E4%BB%A4",
+        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "張育成",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BC%B5%E8%82%B2%E6%88%90",
         "pubdate": "Sun, 16 Apr 2023 07:00:00 +0800"
@@ -38,13 +59,6 @@
     ],
     [
       {
-        "title": "蘇丹",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E4%B8%B9",
-        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "猴痘",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E7%8C%B4%E7%97%98",
         "pubdate": "Sun, 16 Apr 2023 03:00:00 +0800"
@@ -55,6 +69,13 @@
         "title": "林智勝",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%9E%97%E6%99%BA%E5%8B%9D",
         "pubdate": "Sun, 16 Apr 2023 18:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "蘇丹",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E8%98%87%E4%B8%B9",
+        "pubdate": "Sun, 16 Apr 2023 01:00:00 +0800"
       }
     ],
     [
@@ -101,13 +122,6 @@
     ],
     [
       {
-        "title": "鍾麗緹",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%8D%BE%E9%BA%97%E7%B7%B9",
-        "pubdate": "Sun, 16 Apr 2023 14:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "MotoGP",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#MotoGP",
         "pubdate": "Sun, 16 Apr 2023 05:00:00 +0800"
@@ -115,30 +129,16 @@
     ],
     [
       {
+        "title": "鍾麗緹",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E9%8D%BE%E9%BA%97%E7%B7%B9",
+        "pubdate": "Sun, 16 Apr 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
         "title": "富邦悍將",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%AF%8C%E9%82%A6%E6%82%8D%E5%B0%87",
         "pubdate": "Sun, 16 Apr 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "斯巴達障礙賽",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%96%AF%E5%B7%B4%E9%81%94%E9%9A%9C%E7%A4%99%E8%B3%BD",
-        "pubdate": "Sun, 16 Apr 2023 09:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Coachella",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Coachella",
-        "pubdate": "Sat, 15 Apr 2023 11:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "不良執念清除師",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E4%B8%8D%E8%89%AF%E5%9F%B7%E5%BF%B5%E6%B8%85%E9%99%A4%E5%B8%AB",
-        "pubdate": "Sat, 15 Apr 2023 15:00:00 +0800"
       }
     ]
   ]

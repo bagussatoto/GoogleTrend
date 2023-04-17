@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "17-04-2023 , 00:54:48",
+  "lastUpdate": "17-04-2023 , 01:57:15",
   "data": [
     [
       {
@@ -52,8 +52,8 @@
     ],
     [
       {
-        "title": "Nottingham Forest – ManUtd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nottingham%20Forest%20%E2%80%93%20ManUtd",
+        "title": "Nottingham Forest – Man utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Nottingham%20Forest%20%E2%80%93%20Man%20utd",
         "pubdate": "Sun, 16 Apr 2023 17:00:00 +0200"
       }
     ],
@@ -108,15 +108,8 @@
     ],
     [
       {
-        "title": "Torino – Salernitana",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Torino%20%E2%80%93%20Salernitana",
-        "pubdate": "Sun, 16 Apr 2023 16:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "ManUtd",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#ManUtd",
+        "title": "Man Utd",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Man%20Utd",
         "pubdate": "Sun, 16 Apr 2023 19:00:00 +0200"
       }
     ],
@@ -139,6 +132,13 @@
         "title": "Powstanie w getcie warszawskim",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Powstanie%20w%20getcie%20warszawskim",
         "pubdate": "Sun, 16 Apr 2023 15:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Handlowa Niedziela",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=PL#Handlowa%20Niedziela",
+        "pubdate": "Sun, 16 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
