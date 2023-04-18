@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 00:25:52",
+  "lastUpdate": "18-04-2023 , 01:43:24",
   "data": [
     [
       {
@@ -45,13 +45,6 @@
     ],
     [
       {
-        "title": "Selamat hari raya",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Selamat%20hari%20raya",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Jack Nicholson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Jack%20Nicholson",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0800"
@@ -80,13 +73,6 @@
     ],
     [
       {
-        "title": "Lionel Messi",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lionel%20Messi",
-        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
         "title": "Alexandra Grant",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Alexandra%20Grant",
         "pubdate": "Mon, 17 Apr 2023 11:00:00 +0800"
@@ -94,9 +80,9 @@
     ],
     [
       {
-        "title": "Doctor Cha",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Doctor%20Cha",
-        "pubdate": "Mon, 17 Apr 2023 02:00:00 +0800"
+        "title": "Lionel Messi",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Lionel%20Messi",
+        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0800"
       }
     ],
     [
@@ -108,16 +94,16 @@
     ],
     [
       {
-        "title": "Atlético Madrid vs Almería",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Atl%C3%A9tico%20Madrid%20vs%20Almer%C3%ADa",
-        "pubdate": "Mon, 17 Apr 2023 02:00:00 +0800"
+        "title": "Newcastle United",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Newcastle%20United",
+        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0800"
       }
     ],
     [
       {
-        "title": "Newcastle United",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Newcastle%20United",
-        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0800"
+        "title": "Atlético Madrid vs Almería",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Atl%C3%A9tico%20Madrid%20vs%20Almer%C3%ADa",
+        "pubdate": "Mon, 17 Apr 2023 02:00:00 +0800"
       }
     ],
     [
@@ -139,6 +125,20 @@
         "title": "BTS' Jungkook",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#BTS'%20Jungkook",
         "pubdate": "Mon, 17 Apr 2023 19:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Sammi Cheng",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Sammi%20Cheng",
+        "pubdate": "Mon, 17 Apr 2023 14:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "Keylor Navas",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=MY#Keylor%20Navas",
+        "pubdate": "Mon, 17 Apr 2023 02:00:00 +0800"
       }
     ]
   ]

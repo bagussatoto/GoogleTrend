@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 00:25:51",
+  "lastUpdate": "18-04-2023 , 01:43:23",
   "data": [
     [
       {
@@ -12,6 +12,13 @@
       {
         "title": "Toni Servillo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Toni%20Servillo",
+        "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Jalisse",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Jalisse",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
       }
     ],
@@ -34,6 +41,13 @@
         "title": "Lashawn Thompson",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Lashawn%20Thompson",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Wes Anderson",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Wes%20Anderson",
+        "pubdate": "Tue, 18 Apr 2023 02:00:00 +0200"
       }
     ],
     [
@@ -94,6 +108,13 @@
     ],
     [
       {
+        "title": "Scossa terremoto oggi Umbria",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Scossa%20terremoto%20oggi%20Umbria",
+        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
+      }
+    ],
+    [
+      {
         "title": "Intesa Sanpaolo",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Intesa%20Sanpaolo",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
@@ -118,27 +139,6 @@
         "title": "Fascicolo Sanitario",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Fascicolo%20Sanitario",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Catherine Spaak",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Catherine%20Spaak",
-        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Le regole della casa del sidro",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Le%20regole%20della%20casa%20del%20sidro",
-        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Leeds  Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=IT#Leeds%20%20Liverpool",
-        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
       }
     ]
   ]

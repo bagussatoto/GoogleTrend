@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "18-04-2023 , 00:25:55",
+  "lastUpdate": "18-04-2023 , 01:43:27",
   "data": [
     [
       {
@@ -13,6 +13,13 @@
         "title": "廣達",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%BB%A3%E9%81%94",
         "pubdate": "Tue, 18 Apr 2023 00:00:00 +0800"
+      }
+    ],
+    [
+      {
+        "title": "姜棟元",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%A7%9C%E6%A3%9F%E5%85%83",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0800"
       }
     ],
     [
@@ -73,9 +80,9 @@
     ],
     [
       {
-        "title": "Rose",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Rose",
-        "pubdate": "Mon, 17 Apr 2023 18:00:00 +0800"
+        "title": "台灣地景花園",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%8F%B0%E7%81%A3%E5%9C%B0%E6%99%AF%E8%8A%B1%E5%9C%92",
+        "pubdate": "Mon, 17 Apr 2023 21:00:00 +0800"
       }
     ],
     [
@@ -101,9 +108,9 @@
     ],
     [
       {
-        "title": "漢翔",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BC%A2%E7%BF%94",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0800"
+        "title": "CBA",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#CBA",
+        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0800"
       }
     ],
     [
@@ -115,9 +122,9 @@
     ],
     [
       {
-        "title": "CBA",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#CBA",
-        "pubdate": "Mon, 17 Apr 2023 19:00:00 +0800"
+        "title": "漢翔",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E6%BC%A2%E7%BF%94",
+        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0800"
       }
     ],
     [
@@ -132,13 +139,6 @@
         "title": "兆豐金",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#%E5%85%86%E8%B1%90%E9%87%91",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0800"
-      }
-    ],
-    [
-      {
-        "title": "Ja Morant",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=TW#Ja%20Morant",
-        "pubdate": "Mon, 17 Apr 2023 12:00:00 +0800"
       }
     ]
   ]
