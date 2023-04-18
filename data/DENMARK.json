@@ -1,6 +1,13 @@
 {
-  "lastUpdate": "17-04-2023 , 23:54:46",
+  "lastUpdate": "18-04-2023 , 00:25:48",
   "data": [
+    [
+      {
+        "title": "Puma",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Puma",
+        "pubdate": "Tue, 18 Apr 2023 01:00:00 +0200"
+      }
+    ],
     [
       {
         "title": "Translate",
@@ -17,8 +24,8 @@
     ],
     [
       {
-        "title": "Liverpool",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Liverpool",
+        "title": "Leeds  Liverpool",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Leeds%20%20Liverpool",
         "pubdate": "Mon, 17 Apr 2023 21:00:00 +0200"
       }
     ],
@@ -66,30 +73,9 @@
     ],
     [
       {
-        "title": "Boston Marathon 2023",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Boston%20Marathon%202023",
-        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
-      }
-    ],
-    [
-      {
         "title": "Reddit",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Reddit",
         "pubdate": "Mon, 17 Apr 2023 12:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Economic",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
-        "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
-      }
-    ],
-    [
-      {
-        "title": "Snapchat",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Snapchat",
-        "pubdate": "Mon, 17 Apr 2023 11:00:00 +0200"
       }
     ],
     [
@@ -115,9 +101,16 @@
     ],
     [
       {
-        "title": "Teams",
-        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Teams",
+        "title": "Economic",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Economic",
         "pubdate": "Mon, 17 Apr 2023 09:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boston Marathon 2023",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Boston%20Marathon%202023",
+        "pubdate": "Mon, 17 Apr 2023 15:00:00 +0200"
       }
     ],
     [
@@ -139,6 +132,13 @@
         "title": "Go",
         "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Go",
         "pubdate": "Mon, 17 Apr 2023 14:00:00 +0200"
+      }
+    ],
+    [
+      {
+        "title": "Boston Marathon",
+        "link": "https://trends.google.com/trends/trendingsearches/daily?geo=DK#Boston%20Marathon",
+        "pubdate": "Mon, 17 Apr 2023 10:00:00 +0200"
       }
     ]
   ]
